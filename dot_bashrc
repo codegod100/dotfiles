@@ -114,6 +114,6 @@ fi
 export PATH="$PATH:/home/vera/.local/bin"
 alias cli="distrobox enter cli"
 export PATH=$PATH:/home/vera/.pixi/bin
-export PATH="$HOME/.diversion/bin:$PATH"
 
 eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+alias cm=chezmoi
