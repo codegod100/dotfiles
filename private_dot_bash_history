@@ -1,0 +1,1817 @@
+distrobox
+apt search distrobox
+sudo apt install distrobox
+groups
+sudo apt install distrobox
+groups
+bash
+vi .bashrc
+source .bashrc
+cli
+cli
+groups
+sudo apt install distrobox
+distrobox create --image ghcr.io/ublue-os/bluefin-cli --name cli
+sudo apt install podman
+newuidmap
+apt install newuidmap
+sudo apt install newuidmap
+sudo apt install uidmap
+distrobox create --image ghcr.io/ublue-os/bluefin-cli --name cli
+distrobox enter cli
+distrobox --version
+pwd
+ls
+git clone https://github.com/89luca89/distrobox.git
+sudo apt install git
+git clone https://github.com/89luca89/distrobox.git
+cd distrobox/
+ls
+make
+sudo apt purge distrobox
+distrobox
+ls
+./install
+distrobox
+vim .bashrc
+cd ..
+vi .bashrc
+source .bashrc
+ls
+distrobox
+distrobox list
+distrobox enter cli
+distrobox --version
+distrobox rm cli
+distrobox create --image ghcr.io/ublue-os/bluefin-cli --name cli
+distrobox enter cli
+groups
+systemctl reboot
+sudo systemctl reboot
+sudo apt install pavucontrol
+groups
+cat /proc/asound/cards
+sudo alsactl init
+aplay /usr/share/sounds/alsa/Noise.wav
+pwd
+l
+pwd
+ls
+brew
+cd zig
+ls
+cat pixi.toml
+cd build
+cat pixi.toml
+htop
+cd
+pwd
+neofetch
+htop
+distrobox enter cli
+flatpak list
+flatpak run org.gnome.Prompt.Devel
+cmake ..
+pixi add cmake
+cmake ..
+pixi add llvm-config
+pixi add llvm-tools
+cmake ..
+pixi add llvm-config
+pixi add llvm-utils
+cmake ..
+pixi ls
+pixi
+pixi info
+cat pixi.toml 
+pixi add llvm
+cmake ..
+pixi add llvmdev
+pixi rm llvm-utils
+pixi add llvmdev
+cmake ..
+devbox search llvmdev
+devbox search llvm-dev
+devbox search llvmdev
+devbox search llv
+devbox search llvm
+devbox search llvm-dev
+cmake ..
+pixi add clang
+cmake ..
+pixi add lld
+cmake ..
+pixi search clang
+pixi search clangdev
+pixi add clangdev
+cmake ..
+zig
+make install
+df -h
+apk
+apk search cmatrix
+apk update
+sudo apk update
+apk search cmatrix
+apk add cmatrix
+sudo apk add cmatrix
+apk search brew
+apk which brew
+brew
+devbox
+apk search devbox
+brew search devbox
+apk search devbox
+pwd
+devbox
+curl -fsSL https://get.jetpack.io/devbox | bash
+devbox
+which a- devbox
+which -a devbox
+nix-shell
+nix-env
+devbox search python
+git clone https://github.com/ziglang/zig.git
+cd zig
+mkdir build
+cmake ..
+cd build
+cmake ..
+devbox init
+devbox shell
+devbox run llvm-config
+devbox
+devbox shell
+pixi
+apk info pixi
+apk add pixi
+sudo apk add pixi
+pixi init
+pixi shell
+cd
+mv realtime.container $HOME/.config/containers/systemd/
+mkdir -p /home/vera/.config/containers/systemd/
+mv realtime.container $HOME/.config/containers/systemd/
+htop
+cli
+cat .bashrc
+which zsh
+zsh
+pwd
+ls
+cli
+brew
+pwd
+ls
+apk
+cli
+mkdir quad
+cd quad/
+ls
+pwd
+ls
+pwd
+ls
+podman
+podman quad
+podman quadlet
+wget "https://github.com/containers/gvisor-tap-vsock/releases/download/v0.7.2/gvproxy-linux-amd64"
+file gvproxy-linux-amd64 
+ls 
+ls -a
+chmod +x gvproxy-linux-amd64 
+./gvproxy-linux-amd64 
+suod ln -s /home/vera/quad/gvproxy-linux-amd64 /usr/local/libexec/podman/gvproxy
+sud oln -s /home/vera/quad/gvproxy-linux-amd64 /usr/local/libexec/podman/gvproxy
+sudo ln -s /home/vera/quad/gvproxy-linux-amd64 /usr/local/libexec/podman/gvproxy
+sudo mkdir -p /usr/local/libexec/podman
+sudo ln -s /home/vera/quad/gvproxy-linux-amd64 /usr/local/libexec/podman/gvproxy
+/usr/local/libexec/podman/gvproxy
+cd
+cli
+podman machine start
+rm /home/vera/.local/share/containers/storage
+sudo rm -fr /home/vera/.local/share/containers/storage
+ps ax|grep podman
+kilall podman
+sudo rm -fr /home/vera/.local/share/containers/storage
+sudo
+pwd
+ls
+neofetch
+apk add neofetch
+sudo apk add neofetch
+sudo apk update
+sudo apk add neofetch
+brew install neofetch
+neofetch
+pixi
+apk add pixi
+sudo apk add pixi
+pixi
+ls
+podman ls
+podman
+podman --version
+podman machine
+podman machine start
+podman machine list
+podman machine init
+htop
+uname -a
+cat /etc/issue
+htop
+cli
+sudo flatpak install --user --from https://nightly.gnome.org/repo/appstream/org.gnome.Prompt.Devel.flatpakref
+sudo apt install flatpak
+sudo flatpak install --user --from https://nightly.gnome.org/repo/appstream/org.gnome.Prompt.Devel.flatpakref
+flatpak install --user --from https://nightly.gnome.org/repo/appstream/org.gnome.Prompt.Devel.flatpakref
+sudo apt install gnome-software-plugin-flatpak
+ps ax|grep gnome
+kill 52438
+ps ax|grep gnome
+kill 54175
+sudo kill -9 54175
+ps ax|grep gnome
+sudo systemctl restart nxserver
+ps ax|grep gnome
+htop
+ps ax|grep gnome
+distrobox --help host
+disrobox --help
+htop
+podman --version
+podman machine ls
+podman machine rm podman-machine-default
+pwd
+ls
+ls -l podman
+which podman
+rm -fr /usr/local/bin/podman
+sudo rm -fr /usr/local/bin/podman
+podman
+ls
+cd
+rm -fr podman-rem*
+ls
+ls quad
+rm -fr quad
+ls
+gvproxy
+hash -r
+gvproxy
+wget "https://api.cirrus-ci.com/v1/artifact/github/containers/podman/Artifacts/binary.zip"
+dtrx binary.zip 
+ls
+cd binary
+ls
+chmod +x podman
+ls
+./podman
+ldd podman
+apt search glibc
+apt search glibc|less
+nala
+apt search glibc|less
+sudo apt install nala
+nala search glibc
+./podman
+cd ..
+wget "https://api.cirrus-ci.com/v1/artifact/github/containers/podman/Artifacts/binary/podman"
+ls
+chmod +x podman
+ldd podman
+./podman
+sudo mkdir -p /etc/apt/keyrings
+# Debian Testing/Bookworm
+curl -fsSL https://download.opensuse.org/repositories/devel:kubic:libcontainers:unstable/Debian_Testing/Release.key   | gpg --dearmor   | sudo tee /etc/apt/keyrings/devel_kubic_libcontainers_unstable.gpg > /dev/null
+echo   "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/devel_kubic_libcontainers_unstable.gpg]\
+    https://download.opensuse.org/repositories/devel:kubic:libcontainers:unstable/Debian_Testing/ /"   | sudo tee /etc/apt/sources.list.d/devel:kubic:libcontainers:unstable.list > /dev/null
+sudo apt-get update
+sudo apt-get -y upgrade
+sudo apt-get -y install podman
+podman --version
+cli
+pwd
+ls
+cli
+distrobox ls
+cli
+distrobox ls
+sudo rm -fr /home/vera/.local/share/containers/storage
+distrobox ls
+cli
+distrobox create --image ghcr.io/ublue-os/bluefin-cli --name cli
+cli
+podman ps
+systemctl daemon-reload
+systemctl status --user realtime
+systemctl status realtime --user
+systemctl --user status realtime
+systemctl daemon-reload
+sudo systemctl daemon-reload
+systemctl --user status realtime
+podman
+podman system
+podman generate
+systemctl --user daemon--reload
+systemctl --user daemon-reload
+systemctl --user status realtime
+systemctl --user daemon-reload
+systemctl --user  realtime
+systemctl --user daemon-reload
+systemctl --user status realtime
+systemctl --user start realtime
+ls
+podman
+systemctl --user status realtime
+podman network
+podman network ls
+htop
+systemctl reboot
+logout vera
+podman ps
+curl localhost:5000
+systemctl --status realtime
+systemctl --user status realtime
+journalctl -u realtime
+journalctl -u realtime --user
+journalctl -u realtime --user -f
+htop
+lsof -i :5000
+rootlessp
+ps ax|grep rootless
+rootlessport
+rootlessport-child
+systemctl --user daemon-reload
+systemctl --user status realtime
+systemctl --user status realtime.service
+podman --version
+pwd
+ls
+sudo apt update podman
+sudo apt upgrade podman
+sudo apt purge podman
+cd 
+wget "https://github.com/containers/podman/releases/download/v4.8.3/podman-remote-static-linux_amd64.tar.gz"
+pwd
+ls
+cli
+devbox
+dtrz
+dtrx
+apt search dtrx
+sudo apt install dtrz
+sudo apt install dtrx
+ls
+dtrx podman-remote-static-linux_amd64.tar.gz 
+ls
+cd podman-remote-static-linux_amd64/
+ls
+cd bin
+ls
+podman
+sudo ln -s podman-remote-static-linux_amd64 /usr/local/bin/podman
+podman
+./podman-remote-static-linux_amd64 
+hash -r
+podman
+ls -l /usr/local/bin/podman
+rm -fr /usr/local/bin/podman
+sudo rm -fr /usr/local/bin/podman
+sudo ln -s ./podman-remote-static-linux_amd64 /usr/local/bin/podman
+podman
+ls -l /usr/local/bin/podman
+sudo rm -fr /usr/local/bin/podman
+sudo ln -s /homev/vera/podman-remote-static-linux_amd64/bin/podman-remote-static-linux_amd64 /usr/local/bin/podman
+podman
+sudo ln -s /home/vera/podman-remote-static-linux_amd64/bin/podman-remote-static-linux_amd64 /usr/local/bin/podman
+sudo rm -fr /usr/local/bin/podman
+sudo ln -s /home/vera/podman-remote-static-linux_amd64/bin/podman-remote-static-linux_amd64 /usr/local/bin/podman
+podman
+cd
+podman --version
+cli
+podman system connection list
+podman machine start
+podman machine init
+sudo apt install qemu-system-x86
+podman machine init
+podman machine start
+apt search gvproxy
+apt search podman
+locate gvproxy
+podman machine start
+qemu-system-x86_64
+sudo apt install qemu-kvm
+podman machine start
+which qemu-system-x86_64
+ls -l /usr/bin/qemu-system-x86_64
+sudo purge qemu-system-x86
+sudo apt purge qemu-system-x86
+sudo apt install qemu-kvm
+podman machine start
+sudo modprobe kvm
+sudo modprobe kvm_intel
+sudo modprobe kvm_amd
+podman machine start
+podman machine init
+podman machine
+podman machine list
+podman machine rm podman-machine-default
+podman
+systemctl daemon-reload 
+pwd
+cd /home/vera/.config/containers/systemd
+ls
+systemctl status --user realtime
+podman ls
+pwd
+systemctl daemon-reload 
+systemctl status --user realtime
+ls
+pw
+pwd
+podman ls
+podman ps
+pwd
+users
+pkill -u vera
+neofetch
+cli
+distrobox ls
+cli
+asa
+alias
+pwd
+cli
+pwd
+ls
+pwd
+ls
+cd zig/
+ls
+cd
+ls binary
+rm -fr binary
+ls
+rm binary*
+ls
+rm podman
+ls
+ls distrobox/
+which -a distrobox
+distrobox --version
+pixi
+which -a pixi
+brew search pixi
+pwd
+ls
+brew seach xeyes
+brew search xeyes
+gsettings set org.gnome.desktop.background show-desktop-icons true
+pwd
+ls
+pwd
+systemctl status --user realtime
+systemctl daemon-reload 
+systemctl daemon-reload  --user
+systemctl status --user realtime
+systemctl stop --user realtime
+systemctl status --user realtime
+pwd
+ls
+systemctl status --user realtime
+cd
+mkdir pixi-base
+podman
+docker build -t ghcr.io/codegod100/pixi-base .
+docker build -t ghcr.io/codegod100/pixi-base . && docker run --rm -it bash
+docker build -t ghcr.io/codegod100/pixi-base . && docker run ghcr.io/codegod100/pixi-base --rm -it bash
+docker build -t ghcr.io/codegod100/pixi-base . && docker run --rm -it ghcr.io/codegod100/pixi-base bash
+podman ls
+podman ps
+podman image ls
+docker image ls
+docker build -t ghcr.io/codegod100/pixi-base . && docker run --rm -it ghcr.io/codegod100/pixi-base bash
+podman pull debian:12-slim
+podman images ls
+podman image ls
+cd ..
+cd pixi-base/
+cd deb
+mkdir deb
+cd deb
+docker build -t bigdeb .
+podman image ls
+cd ..
+docker build -t ghcr.io/codegod100/pixi-base . && docker run --rm -it ghcr.io/codegod100/pixi-base bash
+podman image ls
+docker build -t ghcr.io/codegod100/pixi-base . && docker run --rm -it ghcr.io/codegod100/pixi-base bash
+docker build --nocache -t ghcr.io/codegod100/pixi-base . && docker run --rm -it ghcr.io/codegod100/pixi-base bash
+docker build --no-cache -t ghcr.io/codegod100/pixi-base . && docker run --rm -it ghcr.io/codegod100/pixi-base bash
+podman image ls
+docker build --no-cache -t ghcr.io/codegod100/pixi-base . && docker run --rm -it ghcr.io/codegod100/pixi-base bash
+podman image ls
+df -h
+cd
+ls
+cd
+cd pro
+ls
+cd
+gh clone https://github.com/codegod100/docstream.git
+brew install gh
+cli
+ps ax|grep gnome
+kill 85257
+ps ax|grep gnome
+kill 85257
+sudo kill 85257
+ps ax|grep gnome
+ps ax|grep xorg
+ps ax|grep wyaland
+sudo ps ax|grep wyaland
+ps ax|grep Way
+ps ax|grep X
+users
+podman
+cli
+brew
+ls
+pwd
+apt
+cli
+apt search x11-apps
+podman --version
+sudo apt install debtree
+podman image ls
+docker
+sudo apt install podman-docker
+pixi add poetry
+ls
+htop
+df -h
+ls
+which -a pixi
+hash -r pixi
+sudo rm /usr/bin/pixi
+hash -r
+which -a pixi
+pixi
+sudo apk add pixi
+pixi
+apk add pixi
+sudo apk add pixi
+pixi
+which -a pixi
+sudo apk add pixi
+whci -a pixi
+which -a pixi
+htop
+cd docstream/
+cli
+htop
+df -h
+pixi
+cli
+pixi
+cd docstream/
+ls
+pixi
+pixi add
+pixi add poetry
+curl -fsSL https://pixi.sh/install.sh | bash
+pixi
+cd docstream/
+pixi add poetry
+sudo apt install swapspace
+pixi add poetry
+cli
+pixi init
+pixi add poetry
+cli
+echo /bin/bash
+ls
+poetry add emmett
+poetry python
+which python
+flask run
+flask run --app
+flask run -app
+flask run app.py
+flask run
+poetry install
+poetry run app.py
+poetry run python app.py
+poetry run emmett shell
+ls data
+ls
+mkdir data
+poetry run emmett shell
+git branch emmett
+git add .
+git commit -m "init branch"
+git checkout emmett
+git log
+git status
+git checkout main
+ls
+poetry run emmett shell
+ls data
+ls -a
+poetry run emmett shell
+emmett setup
+poetry run emmett setup
+poetry run emmett --help
+emmett develop
+poetry run emmett develop
+emmett -a app.py develop
+emmett migrations generate -m "First migration"
+emmett migrations up
+ls data
+ls sdas
+poetry run emmett migrations up
+poetry run emmett migrations status
+poetry run emmett migrations --help
+poetry run emmett migrations --db "sqlite:///data/blips.sql"
+poetry run emmett migrations --db sqlite:///data/blips.sql
+poetry run emmett migrations up --db sqlite:///data/blips.sql
+poetry run emmett migrations --db sqlite:///data/blips.sql up
+poetry run emmett migrations --db "sqlite:///data/blips.sql" up
+poetry run emmett migrations --help
+poetry run emmett migrations --db "sqlite:///data/blips.sql" status
+poetry run emmett migrations --db "data/blips.sql" status
+poetry run emmett migrations
+poetry run emmett migrations up
+poetry shell
+pixi shell
+which python
+which emmet
+which emmett cd /home/vera/docstream ; /usr/bin/env /home/vera/docstream/.pixi/env/bin/python /home/vera/.vscode-server/extensions/ms-python.python-2023.22.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 55267 -- emmett develop 
+which emmett
+ls
+ls data
+pixi init
+cli
+sqlite3 databases/dummy.db 
+emmett migrations generate
+emmett migrations up
+emmett migrations generate
+emmett migrations up
+pwd
+ls
+htop
+poetry
+/home/vera/docstream/.pixi/env/bin/poetry run emmett develop
+/home/vera/docstream/.pixi/env/bin/poetry run "emmett develop"
+pixi shell
+poetry run emmett develop
+pixi run poetry run emmett develop
+which pixi
+pixi
+whch pixi
+which pixi
+pixi shell
+which python
+which poetry
+sqlite3 databases/dummy.db 
+cli
+emmett migrations generate
+emmett migrations up
+emmett migrations generate
+emmett migrations up
+sqlite3
+cli
+echo /bin/bash
+poetry shell
+emmett develop
+emmett migrations up
+emmett migrations generate
+emmett migrations up
+cli
+cli
+sudo apt install swapspace
+cli
+eza
+cli
+git status
+cli
+echo /usr/bin/bash
+sqlite3 databases/dummy.db
+cd docstream/
+ls
+cli
+sqlite3 databases/dummy.db 
+cli
+apk search readline
+sudo apk add readline
+sqlite3 databases/dummy.db
+harelquin
+apk search harelquin
+brew search harelquin
+brew search harlequin
+apk search harlequin
+pipx install harelequin
+pipx install harlequin
+pip install pipx
+apk search pipx
+brew search pipx
+brew install pipx
+pipx install harelquin
+sqlite3 databases/dummy.db
+apk search rlwrap
+sudo apk add rlwrap
+sqlite3 databases/dummy.db
+sqlite3 databases/dummy.db
+cli
+curl localhost:5000
+curl localhost:5000 -L
+cd docstream/
+cli
+jobs
+pixi shell
+poetry run emmett develop
+killall python
+poetry run emmett develop
+poetry run emmett shell
+rm databases/dummy.db && poetry run generate migrations && poetry run migrations up
+rm databases/dummy.db && poetry run emmett generate migrations && poetry run emmett migrations up
+rm databases/* && poetry run emmett generate migrations && poetry run emmett migrations up
+rm -fr databases/* && poetry run emmett generate migrations && poetry run emmett migrations up
+rm -fr databases/* && poetry run emmett migrations migrations && poetry run emmett migrations up
+rm -fr databases/* && poetry run emmett migrations generate && poetry run emmett migrations up
+poetry run emmett shell
+code clean.sh
+which -a code
+code
+poetry run emmett migrations
+poetry run emmett migrations new
+poetry run clean.sh
+poetry run ./clean.sh
+chmod +x clean.sh
+poetry run ./clean.sh
+poetry run emmett shell
+poetry run ./clean.sh
+poetry run emmett develop
+poetry run emmett shell
+poetry run emmett develop
+poetry run emmett shell
+poetry run ./clean.sh
+poetry run emmett shell
+poetry run ./clean.sh
+poetry run emmett shell
+which python
+git reset --hard
+git status
+git revert 71ef40990f4823804ad9501658bc7a520d7364a6
+git status
+git commit -m "revert"
+git status
+git commit -m "revert"
+git config --global user.name V
+git commit -m "revert"
+git config --global V@fbi.gov
+git config --global Vuser.email V@fbi.gov
+git commit -m "revert"
+git config --global user.email V@fbi.gov
+git commit -m "revert"
+git status
+git log
+git push
+apk search pixi
+cli
+curl -sL https://get.diversion.dev/unix | bash
+dv
+dv status
+dv login
+dv status
+cd ..
+cd docstream/
+git status
+cd ..
+rm -fr docstream/
+dv clone docstream
+cd docstream/
+LS .GIT
+ls .git
+pwd
+ls
+ls .git
+cd ..
+rm -fr docstream/
+gh repo clone docstream
+cd docstream/
+git status
+dv status
+dv init
+dv init .
+dv view
+ls .git
+dv status
+dv view
+dv status
+dv --help
+dv repo
+git status
+git reset --hard
+git status
+rm -fr .diversion/
+rm -fr .dvignore 
+dv import .
+dv
+dv --help
+ls
+dv init
+dv init .
+git status
+dv init .
+cd
+dv auth
+dv logout
+dv login
+cd docstream/
+dv init
+dv init .
+dv view
+git status
+cat .dvignore 
+docker build -t ghcr.io/codegod100/pixi-base . && docker run --rm -it ghcr.io/codegod100/pixi-base bash
+cd
+cd /etc
+ls
+git status
+cd
+cd docstream/
+git status
+rclone
+ls
+ls docs
+cd docstream
+ls
+pwd
+ls
+pwd
+ls
+rclone
+sudo apk add rclone
+rclone mount
+rclone ls
+rclone remotes
+rclone remote
+rclone ls
+rclone config
+rclone ls
+rclone commands
+rclone cp docstream r2:/docstream
+rclone rc --help
+rclone copy docstream r2:/docstream
+ls doc
+ls docs
+rclone mount r2:/docstream docs
+rclone mount r2:/docstream ./docs
+mkdir docs
+rclone mount r2:/docstream docs
+cd docstream/
+ls -a
+git status
+cd ..
+rm -fr docstream/
+mkdir docstream
+rclone mount r2:/docstream docstream
+ls docstream
+rm -fr docstream
+rclone copy r2:/docstream docstream
+cd docstream/
+ls
+ls 0a
+ls -a
+ls .diversion/
+ls .dvignore 
+ls
+cat .dvignore 
+ls
+dv
+dv status
+cd ..
+tar czf docstream-2024-01-22.tar.gz docstream
+ls -l
+file docstream-2024-01-22.tar.gz 
+sudo apk add file
+file docstream-2024-01-22.tar.gz 
+rclone docstream-2024-01-22.tar.gz r2:/backups/
+rclone copy docstream-2024-01-22.tar.gz r2:/backups/
+ip a
+git status
+cd docstream
+git status
+devpod
+ls docs
+LS
+ls
+ls -a
+cli
+rm -fr docs
+syncthing
+apk search syncthing
+cli
+FLASK_DEBUG=1 poetry run flask run --host 0.0.0.0
+cli
+echo /usr/bin/bash
+rclone
+cli
+echo $USER
+ls
+file 41
+file 419964532_892366445915225_11092325377104561_n.mp4\?_nc_ht\=scontent.cdninstagram.com\&_nc_cat\=105\&_nc_ohc\=q1fpncKcD9IAX8fugQN\&edm\=APs17CUBAAAA\&ccb\=7-5\&oh\=00_AfCgF5MdzjTfSBDaXD5Hg9IvpaLFBYDcWr5SPgl6xhmBcg\&oe\=65B06141\&_nc_sid\=10d13b 
+mv 419964532_892366445915225_11092325377104561_n.mp4\?_nc_ht\=scontent.cdninstagram.com\&_nc_cat\=105\&_nc_ohc\=q1fpncKcD9IAX8fugQN\&edm\=APs17CUBAAAA\&ccb\=7-5\&oh\=00_AfCgF5MdzjTfSBDaXD5Hg9IvpaLFBYDcWr5SPgl6xhmBcg\&oe\=65B06141\&_nc_sid\=10d13b snoop.mp4
+ls
+rclone copy snoop.mp4 r2:/assets/snoop.mp4
+rclone copy snoop.mp4 r2:/assets/
+rclone rm r2:/snoop.mp4
+rclone rmdir r2:/snoop.mp4
+rclone rmdir r2:/assets/snoop.mp4
+rclone ls r2:/assets
+rclone rm /assets/snoop.mp4/snoop.m4
+rclone rm /assets/snoop.mp4/snoop.mp4
+rclone rm r2:/assets/snoop.mp4/snoop.mp4
+rclone rmdir r2:/assets/snoop.mp4/snoop.mp4
+rclone delete r2:/assets/snoop.mp4/snoop.mp4
+htop
+apk search atuin
+apk search pixi
+apk show pixi
+apk info pixi
+dysk
+apk add dysk
+sudo apk add dysk
+brew
+docker pull cgr.dev/chainguard/apko
+docker run --rm cgr.dev/chainguard/apko version
+mkdir apko
+cd apko/
+code wolfi-base.yaml
+pwd
+ls
+cd ..
+ls
+wget "https://scontent.cdninstagram.com/v/t50.2886-16/419964532_892366445915225_11092325377104561_n.mp4?_nc_ht=scontent.cdninstagram.com&_nc_cat=105&_nc_ohc=q1fpncKcD9IAX8fugQN&edm=APs17CUBAAAA&ccb=7-5&oh=00_AfCgF5MdzjTfSBDaXD5Hg9IvpaLFBYDcWr5SPgl6xhmBcg&oe=65B06141&_nc_sid=10d13b"
+ls
+cli
+ls
+mkdir gnu-hello
+docker image ls
+docker container prune
+docker image ls
+docker image prune
+docker image ls
+apk add py3-virtualenv
+sudo apk add py3-virtualenv
+virtualenv venv
+ls
+source venv/bin/activate
+pip install -e requirements.txt 
+ls -l
+pip install -e ./requirements.txt 
+pip install -r requirements.txt 
+echo /usr/bin/bash
+docker ps
+./build
+./build.sh 
+gh repo
+gh repo clone realtime
+cd realtime/
+htop
+docker ps
+curl localhost:5000
+curl localhost:5000 -L
+curl localhost:5000 -L --verbose
+docker ps
+curl localhost:5000 -L --verbose
+docker image ls
+hostname
+docker container prune
+docker image prune
+docker image ls
+curl localhost:5000
+apk
+which -a apk
+cat /etc/apk/world
+cat /etc/apk/repositories
+vi /etc/apk/repositories 
+pwd
+ls
+pwsd
+pwd
+ls
+cd
+cd gnu-hello/
+cd ..
+rm gnu-hello/ realtime-apko
+mv gnu-hello/ realtime-apko
+ls
+cd realtime-apko/
+ls
+pwd
+sudo vim /etc/apk/repositories 
+apk search realtime
+sudo vim /etc/apk/repositories 
+apk add /home/vera/realtime-apko/packages/x86_64/realtime-0.1.0-r0.apk 
+ls /workspace
+sudo apk add /home/vera/realtime-apko/packages/x86_64/realtime-0.1.0-r0.apk 
+sudo apk add /home/vera/realtime-apko/packages/x86_64/realtime-0.1.0-r0.apk  --allow-untrusted
+ls /workspace/realtime/
+apk info realtime
+apk rm realtime
+apk del realtime
+sudo apk del realtime
+pwd
+ls
+sudo apk add /home/vera/realtime-apko/packages/x86_64/realtime-0.1.0-r0.apk  --allow-untrusted
+sudo apk del realtime
+sudo apk add /home/vera/realtime-apko/packages/x86_64/realtime-0.1.0-r0.apk  --allow-untrusted --verbose
+sudo apk del realtime
+sudo apk add /home/vera/realtime-apko/packages/x86_64/realtime-0.1.0-r0.apk  --allow-untrusted -v
+/workspace/realtime/server
+sudo apk del realtime
+sudo apk add /home/vera/realtime-apko/packages/x86_64/realtime-0.1.0-r0.apk  --allow-untrusted -v
+/workspace/realtime/server
+sudo apk del realtime
+/workspace/realtime/server
+ls -lh /home/vera/realtime-apko/packages/x86_64/realtime-0.1.0-r0.apk
+docker image ls
+ls -lh /home/vera/realtime-apko/packages/x86_64/realtime-0.1.0-r0.apk
+cd
+ls
+cli
+docker image ls
+pwd
+gh repo
+cli
+poetry run emmett develop
+poetry shell
+poetry run emmett migrations up
+poetry run emmett migrations generate
+poetry run emmett migrations up
+ls databases
+rm -fr migrations/
+poetry run emmett migrations generate
+poetry run emmett migrations up
+poetry run emmett develop
+mkdir databases
+poetry run emmett migrations up
+emmett
+emmett develop
+emmett shell
+sqlite3
+sqlite3 databases/dummy.db 
+poetry run emmett migrations generate
+poetry run emmett migrations up
+poetry run emmett migrations generate
+poetry run emmett migrations up
+sqlite3 databases/dummy.db 
+emmett migrations up
+emmett migrations --help
+emmett migrations --app app.py up
+emmett migrations generate
+emmett migrations --db blips  up
+emmett migrations --db Blip  up
+emmett migrations --db blips  generate
+emmett migrations --db Blip  generate
+emmett migrations --db Blip  new
+emmett migrations --db App
+emmett migrations --db App generate
+emmett migrations generate
+emmett migrations up
+mkdir -p databases
+emmett migrations up
+emmett migrations --db blips up
+emmett migrations up
+emmett migrations --db "blips" up
+emmett migrations --db Blip up
+emmett migrations up
+emmett migrations --db sqlite://dummy.d up
+emmett migrations --db "sqlite://dummy.d" up
+emmett migrations up
+emmett shell
+emmett develop
+emmett migrations generate
+emmett migrations up
+emmett develop
+echo /bin/bash
+dv
+curl -sL https://get.diversion.dev/unix | bash
+dv status
+cli
+rclone
+cli
+cd
+cli
+devpod
+brew
+apt
+apt search devpod
+cli
+sudo apk add caddy
+caddy file-server
+sudo caddy file-server
+sudo lsof -i :80
+ls
+sudo apk add eza
+ls
+cd x86_64/
+ls
+vim .bashrc
+vi .bashrc
+cd realtime-apko/
+cd packages
+ls
+cli
+journalctl -u caddy
+sudo journalctl -u caddy
+systemctl status caddy
+cd
+ls
+ls -a
+cli
+ls
+bash
+ls
+caddy stop
+cli
+ls
+cli
+podman ps
+podman ps -a
+podman container prune
+podman imafge prune
+podman image prune
+docker ps
+docker ps -a
+docker container prune
+docker image prune
+ls
+docker image ls
+podman image ls
+pwd
+ls
+cli
+distrobox create -i ghcr.io/ublue-os/bluefin-cli -n cli
+cli
+sudo lsof -i :80
+caddy
+cli
+sudo lsof -i :5000
+kill 76232
+sudo lsof -i :5000
+kill 762632
+sudo lsof -i :5000
+./build
+./build.sh 
+cli
+docker run ghcr.io/codegod100/realtime-apko:latest-amd64
+virtualenv
+cli
+apk search pigr
+cli
+docker build -t test .
+docker run --rm -it test
+pixi ini
+pixi init
+pixi add requests
+pixi add python-dotenv
+pixi add watchdog
+pixi add flask-socketio
+pixi add flask
+pixi run flask
+pipreqs .
+cli
+echo /usr/bin/bash
+pwd
+cd ..
+mv realtime apko-builder
+cd apko-builder/
+ls
+pwd
+ls /var/cache/apk
+rm -fr /var/cache/apk
+sudo rm -fr /var/cache/apk
+apk search realtime
+sudo apk update
+curl localhost:8080
+sudo apk update
+sudo apk update --allow-untrusted
+apk search realtime
+apk search realtime --allow-untrusted
+sudo apk install realtime
+sudo apk add realtime
+sudo apk add realtime --allow-untrusted
+sudo apk update --allow-untrusted
+apk search realtime
+sudo apk add realtime --allow-untrusted
+apk list
+cat /etc/apk/world
+buildrepo
+apk search buildrepo
+apk search build
+apk search alpine-sdk
+apk search bash
+apk search wolfi-sdk
+apk search apk
+apk info apk-tools
+sudo apk add apk-tools -v
+sudo apk del realtime
+sudo apk add apk-tools -v
+cat /etc/apk/world|grep tools
+apk-tools
+buildrepo
+manapk-tools
+man apk-tools
+sudo apk add man
+sudo apk add man-db
+man apk-tools
+ls /etc/apk
+ls /etc/apk/keys
+cp ~/realtime-apko/melange.rsa.pub /etc/apk/keys/
+sudo cp ~/realtime-apko/melange.rsa.pub /etc/apk/keys/
+less /etc/apk/keys/melange.rsa.pub 
+less /etc/apk/keys/wolfi-signing.rsa.pub 
+cat /etc/apk/keys/melange.rsa.pub 
+cat /etc/apk/keys/wolfi-signing.rsa.pub 
+sudo apk update
+sudo apk search realtime
+sudo apk add realtime
+sudo apk del realtime
+sudo apk add realtime
+sudo apk del realtime
+sudo vi /etc/apk/repositories 
+apk add ~/realtime-apko/packages/x86_64/realtime-0.1.0-r0.apk 
+sudo apk add ~/realtime-apko/packages/x86_64/realtime-0.1.0-r0.apk 
+sudo apk remove ~/realtime-apko/packages/x86_64/realtime-0.1.0-r0.apk 
+sudo apk del ~/realtime-apko/packages/x86_64/realtime-0.1.0-r0.apk 
+sudo apk del realtime
+ls /etc/apk/keys/
+sudo vi /etc/apk/repositories 
+sudo apk update
+sudo vi /etc/apk/repositories 
+sudo apk update
+sudo apk search realtime
+sudo apk add realtime
+sudo rm -fr /etc/apk/cache
+sudo apk update
+sudo apk add realtime
+sudo apk add /home/vera/realtime-apko/packages/x86_64/realtime-0.1.0-r0.apk 
+sudo apk del realtime
+cd
+ls
+mv apko-builder/ real
+mv real realtime
+ls realtime
+mv realtime-apko/ apko-builder
+ls
+sudo apk add /home/vera/realtime-apko/packages/x86_64/realtime-0.1.0-r0.apk 
+sudo apk add /home/vera/apko-builder/packages/x86_64/realtime-0.1.0-r0.apk 
+/workspace/realtime/server
+sudo apk del realtime
+cp /home/vera/apko-builder/packages/x86_64/realtime-0.1.0-r0.apk /home/vera/foo.apk
+file /home/vera/foo.apk
+sudo apk add file
+file /home/vera/foo.apk
+sudo apk add /home/vera/foo.apk 
+sudo apk del realtime
+pwd
+ls -lh
+sudo vi /etc/apk/repositories 
+sudo apk update
+sudo vi /etc/apk/repositories 
+sudo apk update
+sudo apk search realtime
+sudo apk info realtime
+ls -lh
+sudo apk add realtime
+sudo apk del realtime
+sudo rm -fr /etc/apk/cache
+sudo apk update
+sudo apk add realtime
+sudo apk del realtime
+ls /etc/
+ls /etc/packages
+cd apko-builder/
+ls
+distrobox ls
+ls /var/cache/apk
+ls /var/cache/
+apk search realtime
+cli
+caddy file-server --listen :8080 --access-log
+ls
+fg
+ls
+cd packages
+caddy file-server --listen :8080 --access-log
+pwd
+ls
+cwds
+cwd
+ls -lh x86_64/realtime-0.1.0-r0.apk 
+cd realtime-apko/
+cli
+cat>file-server.sh
+caddy file-server --listen :8080 --access-log
+cli
+curl localhost:5000
+dust
+sudo apk ad dust
+sudo apk add dust
+sudo apk add dust-du
+sudo apk add ddu-dust
+sudo apk add du-dust
+apk search dust
+apk
+brew search dust
+brew info dust
+brew install dust
+pwd
+dust
+rm -fr .cache
+dust
+df -h
+docker image prune
+docker image prune --all
+docker image ls
+df -h
+rm -fr /home/vera/.local/share/containers
+sudo rm -fr /home/vera/.local/share/containers
+lsof /home/vera/.local/share/containers
+cli
+cd
+lsof
+sudo lsof
+pwd
+hostname
+./build-package.sh realtime
+pwd
+ls
+pwd
+ls
+pwd
+./build.sh 
+./build-package.sh realtime
+./build.sh 
+cat /etc/apk/repositories 
+sudo apk update
+sudo apk add realtime
+ls /workspace/realtime/
+cd /workspace/realtime/
+ls
+cd /workspace/realtime/
+ls /workspace/realtime/melange-out 
+sudo ls /workspace/realtime/melange-out 
+sudo ls /workspace/realtime/melange-out/realtime
+sudo ls /workspace/realtime/melange-out/realtime/workspace
+sudo apk del realtime
+sudo apk add realtime
+ls /workspace/realtime/
+sudo ls /workspace/realtime/
+cd /workspace/realtime/
+ls
+sudo cd /workspace/realtime/
+sudo bash
+./build-package realtime
+./build-package.sh realtime
+sudo apk del realtime
+sudo apk add realtime
+ls /workspace/realtime
+sudo apk del realtime
+./build-package.sh realtime
+sudo apk add realtime
+ls /workspace/realtime/melange-out/
+sudo ls /workspace/realtime/melange-out/
+sudo ls /workspace/realtime/melange-out/realtime
+./build-package.sh realtime
+docker image prune --all
+docker image ls
+podman image ls
+docker container -s
+docker volume ls
+rm volume prune --all
+docker volume prune --all
+docker volume prune
+df -h
+./build-package.sh realtime
+cd realtime
+git clone . ~/fooo
+ls .git
+cd ..
+ls .git
+./build-package.sh realtime
+clear
+./build-package.sh realtime
+sudo apk add realtime
+ls /workspace/realtime/
+sudo apk del realtime
+sudo apk add realtime
+cd /
+ls
+cd
+cd ~/apko-builder/
+./build-package.sh realtime
+df -h
+apk search realtime
+apk add realtime
+sudo apk add realtime
+pixi
+pixi run python app /workspace/realtime/app.py
+cd /workspace/realtime
+cd /workspace/realtime/
+ls /workspace/realtime/
+ls -l /workspace/realtime/
+sudo ls -l /workspace/realtime/
+sudo ls -l /workspace
+whoami
+echo $USER
+ls /etc/
+ls -l /etc/ethertypes
+ls /workspace
+ls /workspace/realtime
+ls -l /workspace
+sudo chmod +r /workspace/realtime
+ls /workspace/realtime/
+sudo chmod -r +r /workspace/realtime
+sudo chmod -R +r /workspace/realtime
+ls /workspace/realtime/
+sudo chmod +Rr /workspace/realtime
+sudo chmod -R +r /workspace/realtime
+ls /workspace/realtime/
+sudo chmod -R +r /workspace/realtime
+ls -l /workspace/realtime
+ls -l /workspace
+sudo ls /workspace/realtime
+sudo ls -l /workspace/realtime
+sudo chmod -R +xr /workspace
+ls /workspace/
+ls /workspace/realtime
+sudo chmod -R 4 /workspace
+ls /workspace
+ls -l /workspace
+sudo chmod -R 444 /workspace
+ls -l /workspace
+sudo chmod -R 777 /workspace
+ls -l /workspace
+sudo chmod -R 744 /workspace
+ls -l /workspace
+sudo chmod -R 766 /workspace
+ls -l /workspace
+sudo chmod -R 777 /workspace
+ls -l /workspace
+sudo chmod -R 667 /workspace
+ls -l /workspace
+sudo chmod -R 774 /workspace
+ls -l /workspace
+sudo chmod -R 774 /workspace/
+ls -l /workspace
+ls /workspace
+chmod -R +r /workspace
+ls -l /etc/localtime 
+chmod --help
+./build-package.sh realtime
+cli
+df -h
+./build-package.sh realtime
+melange
+sudo apk add melange
+./build-package.sh realtime
+ls *.yaml
+./build-package.sh realtime
+/workspace/realtime/server
+ls /etc/packages
+echo "/etc/packages" >> /etc/apk/repositories
+sudo echo "/etc/packages" >> /etc/apk/repositories
+sudo bash
+docker build -t vera-cli .
+distrobox create -i vera-cli -n vera
+distrobox enter vera
+distrobox rm vera
+distrobox create -i vera-cli -n vera
+df -h
+docker container prune
+docker image prune
+df -h
+docker image ls
+docker image rm
+docker image rm *
+docker image purge
+docker image prune
+docker image prune --all
+docker container prune --all
+docker container prune
+docker container ls
+docker image ls
+df -h
+ls
+podman image ls
+pwd
+ls
+distrobox ls
+distrobox create -i vera-cli -n vera
+docker build -t vera-cli .
+distrobox create -i vera-cli -n vera
+distrobox enter vera-cli
+distrobox enter vera
+df -h
+chmod +x build-package.sh 
+./build-package.sh realtime
+cli
+dust
+dnf
+dnf install dust
+sudo dnf install dust
+dnf search dust
+apk info pixi
+cowsay
+apk add cowsay
+apk search cowsay
+apk show cowsay
+apk info cowsay
+apk info --help
+cat /etc/apk/repositories 
+apk search devbox
+apk search nix
+ncdu /
+sudo apt isntall ncdu
+apt
+sudo apt install ncdu
+sudo ncdu /
+sudo rm -fr /tmp
+df -h
+lci
+cli
+go
+apk search go
+sudo apk add go
+go
+go make
+ls
+cat devbox.json 
+cat devbox.md
+glow
+apk search glow
+bew search glow
+brew search glow
+brew install glow
+glow devbox.md
+ls
+go build -o dist/devbox ./cmd/devbox
+ls
+ls dist
+dist/devbox
+devobx
+devbox
+ls
+mkdir foo
+cd foo
+../dist/devbox init
+ls
+ls -a
+cat devbox.json 
+../dist/devbox add ruby
+devbox info ruby
+ls
+devbox run ruby
+../dist/devbox run ruby
+../dist/devbox run irb
+pixi init
+pixi add ruby
+pixi run irb
+ls -l /home/vera/devbox/foo/.pixi/env/bin/irb
+less /home/vera/devbox/foo/.pixi/env/bin/irb
+pwd
+ls
+ls -lh
+ls -lah
+ls -lah/devbox
+ls
+pwd
+ls
+cat pixi.toml
+cd ..
+go build -o dist/devbox ./cmd/devbox
+apk search dust
+df -h
+ls
+docker image ls
+docker colume ls
+docker volume ls
+rm volume prune
+docker system prune --all
+docker ps -a
+docker ps
+ls
+dust
+cli
+ls
+df -h
+hostname
+df -h
+dust
+cli
+distrobx ls
+distrobox ls
+distrobox create
+distrobox enter my-distrobox 
+git clone https://github.com/jetpack-io/devbox.git
+df -h
+ls
+cd devbox/
+ls
+go
+apk search go
+cli
+distrobox ls
+distrobox enter vera
+df -h
+./build-package.sh realtime
+cli
+distrobox create -i ghcr.io/ublue-os/bluefin-cli -n cli
+mkdir /tmp
+sudo mkdir /tmp
+distrobox create -i ghcr.io/ublue-os/bluefin-cli -n cli
+sudo chmod 777 /tmp
+distrobox create -i ghcr.io/ublue-os/bluefin-cli -n cli
+distrobox enter cli
+echo /bin/bash
+apk info realtime
+sudo apk add realtime
+sudo del realtime
+sudo apk del realtime
+ls
+sudo apk add realtime-0.1.0-r0.apk 
+sudo apk add realtime-0.1.0-r0.apk --allow-untrusted
+pwd
+ls
+apk search devbox
+devbox
+brew remove devox
+brew remove devbox
+brew uninstall devbox
+which a- devbox
+rm -fr /usr/bin/devbox
+sudo rm -fr /usr/bin/devbox
+hash -r
+which -a devbox
+ls
+sudo apk add devbox-0.8.7-r0.apk --allow-untrusted
+devbox
+which devbox
+hash -r
+which devbox
+devbox
+ls /usr/bin/devbox
+ls
+sudo apk add devbox-0.8.7-r0.apk --allow-untrusted
+sudo apk add ./devbox-0.8.7-r0.apk --allow-untrusted
+ls /usr/bin/devbox
+which devbox
+apk search homebrew
+cd
+cd github
+mkdir github
+cd github/
+ls
+git clone https://github.com/Homebrew/brew.git
+cd brew
+ls
+bin
+ls
+ls bin
+bin/brew
+bin/brew search
+xterm
+which xterm
+brew install xterm
+xterm
+ls
+cat LICENSE.txt 
+ls
+ls bin
+bin brew
+bin/brew
+brew
+bin/brew --prefix
+df -h
+less bin/brew
+ls /usr/Livrary
+brew --help
+which brew
+echo $HOMEBREW_LIBRARY
+brew shell
+brew config
+ls ~/.local/
+ls ~/.local/share/containers/s
+ls ~/.local/share/containers/storage/
+ls $HOME/.config/containers/systemd
+rm $HOME/.config/containers/systemd/realtime.container 
+systemctl status realtime
+systemctl status realtime --user
+systemcl daemon-reload --user
+systemctl status realtime --user
+systemcl daemon-reload --user
+systemctl status realtime --user
+systemctl stop realtime --user
+systemcl daemon-reload --user
+systemctl status realtime --user
+less bin/brew
+ls
+ls Library/
+ls Library/Homebrew/
+ls /home/linuxbrew
+ls /home/linuxbrew -a
+ls /home/linuxbrew/.linuxbrew/
+ls
+cd Library/
+ls
+cat README.md 
+ls
+cd Homebrew/
+ls
+cat README.md 
+ls python
+locate
+locate ld.so
+ls
+cd ..
+ls
+cd ..
+ls
+ls bin
+ls package/
+ls package/resources/
+ls sc
+ls
+cat Dockerfile 
+su - foo
+ls
+pwd
+ls
+brew
+cat /etc/os-release 
+newapkbuild
+apk search alpine-sdk
+apk search
+apk search brew
+ls
+brew
+pwd
+dsitrobox list
+distrobox list
+pwd
+cat .bashrc
+distrobox list
+pwd
+ls
+./build-package.sh devbox
+cli
+apk search rclone
+brew search rclone
+rclone
+rclone config
+which -a rclone
+flatpak
+brew search stow
+brew info snow
+brew info stow
+brew search tauro
+brew search tauri
+cli
+hostname
+hostname debian
+sudo hostname debian
+pwd
+rclone
+apk search rclone
+brew search rclone
+cli
+distrobox list
+cli
+cd apko-builder/
+ls
+cd package
+ls
+cd packages/
+ls
+cd x86_64/
+ls
+apk info realtime
+cli
+cd
+distrobox list
+distrobox create -i ghcr.io/homebrew/brew:latest
+distrobox enter brew-latest
+cli
+distrobox list
+distrobox enter brew-latest
+ls
+docker
+distrobox
+distrobox list
+cli
